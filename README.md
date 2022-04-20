@@ -1,1 +1,0 @@
-open index.html file using google chrome browser
